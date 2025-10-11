@@ -4,15 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahima-sanketh-git&label=Profile%20views&color=0e75b6&style=flat" alt="mahima-sanketh-git" /> </p>
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mahima-Sanketh-Git](https://github.com/Mahima-Sanketh-Git)
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **mahimadevops@gmail.com**
+- 📫 How to reach me **mahimadevops@gmail.com - ceo@simplenotion.co**
 
 - ⚡ Fun fact **I think I am funny😎**
+  
+- 🚀 I love to build **Marketplace, Fintech, AGI, API**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
