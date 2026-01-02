@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I think I am funny😎**
   
-- 🚀 I love to build **Marketplace, Fintech, AGI, API**
+- 🚀 I love to build **Marketplace, Fintech, AGI, API, SAAS**
 
 
 <h3 align="left">Connect with me:</h3>
