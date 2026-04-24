@@ -11,7 +11,7 @@
 - 🚀 I love to build **Marketplace, Fintech, AGI, API, SAAS**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
+<p>
   <a href="https://twitter.com/mahimasanketh12" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
   </a>
@@ -24,7 +24,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
